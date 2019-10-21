@@ -1,0 +1,99 @@
+post-cards:
+  - 
+    post_type: fast
+    post_tag: Curiosidade
+    post_title: O que aconteceu com os dinossauros?
+    post_excerpt: 
+    post_thumb: 'https://via.placeholder.com/260x220.png'
+    post_date: 11 Jan 2019
+    has_image: true
+  -
+    post_type: post
+    post_tag: Oração
+    post_title: 4 orações para afastar o Diabo 👿
+    post_excerpt: Espante o mal com as orações mais poderosas que o próprio Jesus ensinou. 
+    post_thumb: 'https://via.placeholder.com/260x200.png'
+    post_date: 10 Jan 2019
+    has_image: true
+  -
+    post_type: teste
+    post_tag: Quiz
+    post_title: Você é um potencial suicida?
+    post_excerpt: Uma informação valiosa de Harvard permite descobrir.
+    post_thumb: 
+    post_date: 
+    has_image: false
+  - 
+    post_type: fast
+    post_tag: Alimentação
+    post_title: Você é aquilo que consome
+    post_excerpt: 
+    post_thumb: 'https://via.placeholder.com/260x290.png'
+    post_date: 8 Jan 2019
+    has_image: true
+  -
+    post_type: teste
+    post_tag: Quiz
+    post_title: Qual o nível da sua fé?
+    post_excerpt: Descobrimos um jeito de medir a sua fé. Teste pra ver.
+    post_thumb: 
+    post_date: 
+    has_image: false
+  -
+    post_type: post
+    post_tag: Doenças emocionais
+    post_title: 10 sinais de que seu filho está sofrendo bullying na escola
+    post_excerpt: 
+    post_thumb: 'https://via.placeholder.com/260x190.png'
+    post_date: 6 Jan 2019
+    has_image: true
+  -
+    post_type: teste
+    post_tag: Quiz
+    post_title: Você tem um casamento feliz?
+    post_excerpt: Veja neste teste se sua vida matrimonial corre perigo.
+    post_thumb: 
+    post_date: 
+    has_image: false
+  -
+    post_type: post
+    post_tag: Oração
+    post_title: Orar de olhos abertos, pode? Descubra.
+    post_excerpt: 
+    post_thumb: 'https://via.placeholder.com/260x180.png'
+    post_date: 5 Jan 2019
+    has_image: true
+  -
+    post_type: post
+    post_tag: Surpreenda-se
+    post_title: 7 respostas de orações que você recebeu e não percebeu
+    post_excerpt: 
+    post_thumb: 'https://via.placeholder.com/260x140.png'
+    post_date: 3 Jan 2019
+    has_image: true
+
+cards:
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"
+    -
+        estimate: 8 min
+        text: "Violência, impunidade e insegurança pede por soluções rápidas e contundentes."
+        title: "Controle de Armas"

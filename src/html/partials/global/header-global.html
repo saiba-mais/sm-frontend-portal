@@ -1,0 +1,81 @@
+<!-- header -->
+<header>
+    
+    <div id="sm-header" class="sm-header" 
+        data-transparent="{{is_header_transparent}}" data-dark="{{is_header_dark}}">
+
+        <div class="container">
+            <div class="row">
+                <!-- button trigger side navigation modal -->
+                <div class="col-3">
+                    <a class="sm-header__btn-menu" href="#" data-toggle="modal" data-target="#sm-side-nav">Menu</a>
+                </div>
+                <div class="col-6">
+                    <a class="sm-header__brand" href="/">
+                        <h1 class="">Saiba Mais</h1>
+                    </a>
+                </div>
+                <div class="col-3">
+                    <!-- button trigger search input -->
+                    <a class="sm-header__btn-search" href="#" data-toggle="modal" data-target="#sm-search-bar">Buscar</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- nav - modal -->
+    <div class="sm-side-nav modal fade" id="sm-side-nav" tabindex="-1" role="dialog" aria-labelledby="sm-side-navLabel" aria-hidden="true">
+        <a href="#" class="sm-side-nav__close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">X</span>
+        </a>
+                
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <nav class="menu d-flex flex-column">
+                        <a href="/page-about.html" class="bold">Edições</a>
+                        <a href="/page-downloads.html" class="bold">Artigos</a>
+                        <a href="/album-dark.html" class="bold">Testes</a>
+                        <a href="/page-covered.html">Ciência</a>
+                        <a href="/page-tour.html">Tecnologia</a>
+                        <a href="/page-contact.html">Comportamento</a>
+                        <a href="/page-contact.html">Saúde</a>
+                        <a href="/page-contact.html">Espiritualidade</a>
+                    </nav>
+
+                    <hr>
+                        
+                    <a href="/page-contact.html">Sobre</a>
+                    <a href="/page-contact.html">Contato</a>
+
+                    <hr>
+
+                    <div class="sm-nav__social mt-4 mx-auto d-flex d-sm-none flex-row justify-content-between">
+                        <a class="social-media spotify" href="#">Spotify</a>
+                        <a class="social-media instagram" href="#">Instagram</a>
+                        <a class="social-media facebook" href="#">Facebook</a>
+                        <a class="social-media youtube" href="#">Youtube</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="sm-search-bar modal fade" id="sm-search-bar" tabindex="-1" role="dialog" 
+    aria-labelledby="sm-search-barLabel" aria-hidden="true">
+        
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    
+                    Barra de busca
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</header>

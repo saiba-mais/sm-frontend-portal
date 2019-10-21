@@ -1,0 +1,25 @@
+// Your variable overrides
+$color-borders: #DFE6ED;
+$color-blue-light: #47A2D9;
+$color-blue-vocal: #014D8A;
+$color-blue-dark: #0B2340;
+
+$body-bg: #FFFFFF;
+$body-color: #4E5B65;
+
+$font-family-base: 			  'Lato', sans-serif;
+$font-size-base:              1.1rem; // Assumes the browser default, typically `16px`
+$font-weight-base:            300;
+
+
+$link-color:                  $color-blue-vocal;
+$link-decoration:             underline;
+$link-hover-color:            darken($link-color, 15%);
+$link-hover-decoration:       none;
+
+
+$nav-height: 				  48px;
+$space-section:				  40px; // espaço entre todas as sessões
+$body-padding-top:			  $nav-height;
+$nav-height-md: 			  90px;
+$body-padding-top-md:		  $nav-height-md;
